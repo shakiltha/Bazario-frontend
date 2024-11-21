@@ -1,3 +1,4 @@
+import { BsCart } from "react-icons/bs";
 import { Link, NavLink } from "react-router-dom";
 
 const Navbar = () => {
@@ -79,6 +80,11 @@ const Navbar = () => {
           </div>
         </div>
       )} */}
+      <div className="ml-24">
+        <button>
+          <BsCart size={25} />
+        </button>
+      </div>
     </div>
   );
 };

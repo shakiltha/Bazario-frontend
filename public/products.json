@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Black Carp Fish (3-4.999) Kg/Pc",
+    "description": "Black Carp Fish (3-4.999) Kg/Pc",
+    "price": 400,
+    "stock": 36,
+    "category": "fish",
+    "imageURL": "https://s3-ap-southeast-1.amazonaws.com/com.meenabazaronline.v1.01/product/2023/5/12/d4KreVjy9MWdrIiaSoBb5FkhSYdssBJeBS3GRC7G___xl.webp"
+  },
+  {
+    "id": 2,
+    "title": "Beef Bone-In Premium",
+    "description": "Transform your dishes from ordinary to extraordinary with Beef Bone in Premium at Meena Bazar. Sourced from organically raised cows, it is not just any bone - it's the heart of wholesome goodness and rich flavor. Crafted meticulously from locally produced, organic cows. Beef with Bone Premium promises to infuse your meals with unparalleled taste and nourishment.",
+    "price": 500,
+    "stock": 1000,
+    "category": "meat",
+    "imageURL": "https://s3-ap-southeast-1.amazonaws.com/com.meenabazaronline.v1.01/product/2023/6/6/QEizfuMW13kVLCmQH6hcCCzPZjtRlYWW60afhaji___xl.webp"
+  },
+  {
+    "id": 3,
+    "title": "Amloki [tropical Sour Fruit]",
+    "description": "Amloki [tropical Sour Fruit] Bulk",
+    "price": 90,
+    "stock": 600,
+    "category": "fruit",
+    "imageURL": "https://s3-ap-southeast-1.amazonaws.com/com.meenabazaronline.v1.01/product/2023/5/18/lcmDv0WMSrRAeIQvTpXtaJcFYvR2JDBibcVG29zV___xl.webp"
+  },
+  {
+    "id": 4,
+    "title": "Cabbage [badacopi] Local Bulk",
+    "description": "Cabbage [badacopi] Local Bulk",
+    "price": 75,
+    "stock": 450,
+    "category": "vegetable",
+    "imageURL": "https://s3-ap-southeast-1.amazonaws.com/com.meenabazaronline.v1.01/product/2023/5/18/lp5NcDPo9SHehFCCGbujexusNDgyjOuFJ6kc8iKD___xl.webp"
+  },
+  {
+    "id": 5,
+    "title": "Ohi Moghulshahi Borhani 1500ml",
+    "description": "Ohi Moghulshahi Borhani 1500ml",
+    "price": 300,
+    "stock": 49,
+    "category": "dairy",
+    "imageURL": "https://s3-ap-southeast-1.amazonaws.com/com.meenabazaronline.v1.01/product/2023/5/31/Ft3ElZ6vNLxfgjRWnynpf6gY70sOohe50Fd4v6Oa___xl.webp"
+  },
+  {
+    "id": 6,
+    "title": "Roja Crumbly Crumbly Shrimp Tempura-224 Gm",
+    "description": "Roja Shrimp Tempura-Crumbly Crumbly 224 Gm, Roja, Shrimp Tempura,-Crumbly Crumbly ,Roja Shrimp Tempura224 Gm",
+    "price": 470,
+    "stock": 150,
+    "category": "frozen",
+    "imageURL": "https://s3-ap-southeast-1.amazonaws.com/com.meenabazaronline.v1.01/product/2023/5/27/Iz5cH25zD2GIp3DvVLH51VFwHkQarUeJfW6TEWFJ___xl.webp"
+  },
+  {
+    "id": 7,
+    "title": "Belleame Chocolate Fondue Cookies 180gm",
+    "description": "Belleame Chocolate Fondue Cookies 180gm",
+    "price": 150,
+    "stock": 250,
+    "category": "grocery",
+    "imageURL": "https://s3-ap-southeast-1.amazonaws.com/com.meenabazaronline.v1.01/product/2023/5/9/SQCpiIphMGEAjAUSVtPLb96frZQm49p4w5HjhIFZ___xl.webp"
+  },
+  {
+    "id": 8,
+    "title": "Roja Paratha- Deshi Classic 20 Pcs 1300 Gm",
+    "description": "Roja Paratha- Deshi Classic 20 Pcs 1300 Gm",
+    "price": 285,
+    "stock": 24,
+    "category": "frozen",
+    "imageURL": "https://s3-ap-southeast-1.amazonaws.com/com.meenabazaronline.v1.01/product/2023/12/11/3EJEyFUZcn2TLJyEvVEYzN7imLB1XzTsZgHjapju___xl.webp"
+  },
+  {
+    "id": 9,
+    "title": "Bega Gourmet Slices Cheese 200gm",
+    "description": "Bega Gourmet Slices Cheese 200gm",
+    "price": 400,
+    "stock": 780,
+    "category": "dairy",
+    "imageURL": "https://s3-ap-southeast-1.amazonaws.com/com.meenabazaronline.v1.01/product/2023/5/11/ATowBKEgGDZTjPuMwpoBFXVWr7vX4rkacDu40HkA___xl.webp"
+  },
+  {
+    "id": 10,
+    "title": "Zaytoun Ajwa Al-Madinah Dates 1 Kg",
+    "description": "Zaytoun Ajwa Al-Madinah Dates 1 Kg",
+    "price": 2000,
+    "stock": 488,
+    "category": "fruit",
+    "imageURL": "https://s3-ap-southeast-1.amazonaws.com/com.meenabazaronline.v1.01/product/2023/5/12/q5wtU9u34QyYSUoxtQKeUU3zDcih7MP8MValtGbS___xl.webp"
+  }
+]
