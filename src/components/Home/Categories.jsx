@@ -19,17 +19,17 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/fish/dry-fish"}
+                to={"/category/fish/fish"}
               >
-                Dry-Fish
+                Fish
               </NavLink>
             </NavItem>
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/fish/fish"}
+                to={"/category/fish/dry-fish"}
               >
-                <p>Fish</p>
+                Dry-Fish
               </NavLink>
             </NavItem>
           </DropDown>
@@ -37,7 +37,7 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/meat/beef"}
+                to={"/category/meat/beef"}
               >
                 Beef
               </NavLink>
@@ -45,7 +45,7 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/meat/chicken"}
+                to={"/category/meat/chicken"}
               >
                 Chicken
               </NavLink>
@@ -53,7 +53,7 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/meat/duck"}
+                to={"/category/meat/duck"}
               >
                 Duck
               </NavLink>
@@ -61,7 +61,7 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/meat/mutton"}
+                to={"/category/meat/mutton"}
               >
                 Mutton
               </NavLink>
@@ -69,17 +69,17 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/meat/bird"}
+                to={"/category/meat/bird"}
               >
                 Bird
               </NavLink>
             </NavItem>
           </DropDown>
-          <DropDown label={"Fruits"} style={{ width: "150px" }}>
+          <DropDown label={"Fruits"} style={{ width: "200px" }}>
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/fruits/local-fruits"}
+                to={"/category/fruits/local-fruits"}
               >
                 Local Fruits
               </NavLink>
@@ -87,17 +87,17 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/fruits/imported-fruits"}
+                to={"/category/fruits/imported-fruits"}
               >
                 Importd Fruits
               </NavLink>
             </NavItem>
           </DropDown>
-          <DropDown label={"Vegetables"} style={{ width: "150px" }}>
+          <DropDown label={"Vegetables"} style={{ width: "220px" }}>
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/vegetables/local-vegetables"}
+                to={"/category/vegetables/local-vegetables"}
               >
                 Local Vegetables
               </NavLink>
@@ -105,7 +105,7 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/vegetables/imported-vegetables"}
+                to={"/category/vegetables/imported-vegetables"}
               >
                 Importd Vegetables
               </NavLink>
@@ -115,7 +115,7 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/dairy/borhani"}
+                to={"/category/dairy/borhani"}
               >
                 Borhani
               </NavLink>
@@ -123,7 +123,7 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/dairy/butter"}
+                to={"/category/dairy/butter"}
               >
                 Butter
               </NavLink>
@@ -131,7 +131,7 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/dairy/cheese"}
+                to={"/category/dairy/cheese"}
               >
                 Cheese
               </NavLink>
@@ -139,7 +139,7 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/dairy/curd"}
+                to={"/category/dairy/curd"}
               >
                 Curd
               </NavLink>
@@ -147,7 +147,7 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/dairy/ice-cream"}
+                to={"/category/dairy/ice-cream"}
               >
                 Ice Cream
               </NavLink>
@@ -155,7 +155,7 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/dairy/yogurt"}
+                to={"/category/dairy/yogurt"}
               >
                 Yogurt
               </NavLink>
@@ -165,7 +165,7 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/frozen/sea-foods"}
+                to={"/category/frozen/sea-foods"}
               >
                 Sea Foods
               </NavLink>
@@ -173,17 +173,17 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/frozen/snacks"}
+                to={"/category/frozen/snacks"}
               >
                 Snack
               </NavLink>
             </NavItem>
           </DropDown>
-          <DropDown label={"Grocery"} style={{ width: "150px" }}>
+          <DropDown label={"Grocery"} style={{ width: "180px" }}>
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/grocery/cookies"}
+                to={"/category/grocery/cookies"}
               >
                 Cookies
               </NavLink>
@@ -191,7 +191,7 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/grocery/biscuits"}
+                to={"/category/grocery/biscuits"}
               >
                 Biscuit
               </NavLink>
@@ -199,7 +199,7 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/grocery/candies"}
+                to={"/category/grocery/candies"}
               >
                 Candie
               </NavLink>
@@ -207,7 +207,7 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/grocery/rice"}
+                to={"/category/grocery/rice"}
               >
                 Rice
               </NavLink>
@@ -215,7 +215,7 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/grocery/sugar"}
+                to={"/category/grocery/sugar"}
               >
                 Sugar
               </NavLink>
@@ -223,7 +223,7 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/grocery/vinegar"}
+                to={"/category/grocery/vinegar"}
               >
                 Vinegar
               </NavLink>
@@ -231,7 +231,7 @@ const Categories = () => {
             <NavItem>
               <NavLink
                 className={"px-4 py-1 hover:bg-slate-700 hover:text-white"}
-                to={"/grocery/cooking-oil"}
+                to={"/category/grocery/cooking-oil"}
               >
                 Cooking Oil
               </NavLink>
