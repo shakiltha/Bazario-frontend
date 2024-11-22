@@ -2,6 +2,9 @@ import AwesomeTestimonial from "react-awesome-testimonials";
 const Testimonials = () => {
   return (
     <div>
+      <h2 className="text-3xl mt-10 -mb-20 text-center">
+        What Our Respected Customers Say
+      </h2>
       <AwesomeTestimonial
         testimonials={[
           {
